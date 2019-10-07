@@ -177,7 +177,16 @@ $(document).ready(function(){
 
 
 Escolhi o canal do Joel Miranda que é um profissional especializado em videos de casamento, já que a empresa que estou realizando este teste 
-tem como foco festa de casamentos então por que não fazer algo relacionado ao tema?
+tem como foco festa de casamentos então por que não fazer algo relacionado ao tema? 
+
+
+# Rodar a Aplicação
+
+Para que a aplicação rode e os vídeos apareçam é preciso de software que crie um servidor local como XAMP e WAMPP. No meu caso utilizei o XAMP. 
+
+
+
+
 
 
 
